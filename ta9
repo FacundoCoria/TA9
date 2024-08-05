@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<iframe
+id="VideoExample"
+title="Youtube video"
+width="400"
+height="250"
+src="https://www.youtube.com/">
+</iframe>
+</body>
+</html>
